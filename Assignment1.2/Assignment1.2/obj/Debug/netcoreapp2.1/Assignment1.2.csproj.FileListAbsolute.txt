@@ -1,0 +1,10 @@
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Assignment1.2\Assignment1.2\bin\Debug\netcoreapp2.1\Assignment1.2.deps.json
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Assignment1.2\Assignment1.2\bin\Debug\netcoreapp2.1\Assignment1.2.runtimeconfig.json
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Assignment1.2\Assignment1.2\bin\Debug\netcoreapp2.1\Assignment1.2.runtimeconfig.dev.json
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Assignment1.2\Assignment1.2\bin\Debug\netcoreapp2.1\Assignment1.2.dll
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Assignment1.2\Assignment1.2\bin\Debug\netcoreapp2.1\Assignment1.2.pdb
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Assignment1.2\Assignment1.2\obj\Debug\netcoreapp2.1\Assignment1.2.csproj.CoreCompileInputs.cache
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Assignment1.2\Assignment1.2\obj\Debug\netcoreapp2.1\Assignment1.2.AssemblyInfoInputs.cache
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Assignment1.2\Assignment1.2\obj\Debug\netcoreapp2.1\Assignment1.2.AssemblyInfo.cs
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Assignment1.2\Assignment1.2\obj\Debug\netcoreapp2.1\Assignment1.2.dll
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Assignment1.2\Assignment1.2\obj\Debug\netcoreapp2.1\Assignment1.2.pdb
