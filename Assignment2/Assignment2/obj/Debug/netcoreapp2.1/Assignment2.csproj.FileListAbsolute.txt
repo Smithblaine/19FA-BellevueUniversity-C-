@@ -1,0 +1,11 @@
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Assignment2\Assignment2\bin\Debug\netcoreapp2.1\Assignment2.deps.json
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Assignment2\Assignment2\bin\Debug\netcoreapp2.1\Assignment2.runtimeconfig.json
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Assignment2\Assignment2\bin\Debug\netcoreapp2.1\Assignment2.runtimeconfig.dev.json
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Assignment2\Assignment2\bin\Debug\netcoreapp2.1\Assignment2.dll
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Assignment2\Assignment2\bin\Debug\netcoreapp2.1\Assignment2.pdb
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Assignment2\Assignment2\obj\Debug\netcoreapp2.1\Assignment2.csprojAssemblyReference.cache
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Assignment2\Assignment2\obj\Debug\netcoreapp2.1\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Assignment2\Assignment2\obj\Debug\netcoreapp2.1\Assignment2.AssemblyInfoInputs.cache
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Assignment2\Assignment2\obj\Debug\netcoreapp2.1\Assignment2.AssemblyInfo.cs
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Assignment2\Assignment2\obj\Debug\netcoreapp2.1\Assignment2.dll
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Assignment2\Assignment2\obj\Debug\netcoreapp2.1\Assignment2.pdb
