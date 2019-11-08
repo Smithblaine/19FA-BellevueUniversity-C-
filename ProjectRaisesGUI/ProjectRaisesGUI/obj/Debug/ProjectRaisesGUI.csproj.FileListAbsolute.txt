@@ -1,0 +1,10 @@
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\ProjectRaisesGUI\ProjectRaisesGUI\bin\Debug\ProjectRaisesGUI.exe.config
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\ProjectRaisesGUI\ProjectRaisesGUI\bin\Debug\ProjectRaisesGUI.exe
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\ProjectRaisesGUI\ProjectRaisesGUI\bin\Debug\ProjectRaisesGUI.pdb
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\ProjectRaisesGUI\ProjectRaisesGUI\obj\Debug\ProjectRaisesGUI.csprojAssemblyReference.cache
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\ProjectRaisesGUI\ProjectRaisesGUI\obj\Debug\ProjectRaisesGUI.SalaryCalculator.resources
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\ProjectRaisesGUI\ProjectRaisesGUI\obj\Debug\ProjectRaisesGUI.Properties.Resources.resources
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\ProjectRaisesGUI\ProjectRaisesGUI\obj\Debug\ProjectRaisesGUI.csproj.GenerateResource.cache
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\ProjectRaisesGUI\ProjectRaisesGUI\obj\Debug\ProjectRaisesGUI.csproj.CoreCompileInputs.cache
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\ProjectRaisesGUI\ProjectRaisesGUI\obj\Debug\ProjectRaisesGUI.exe
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\ProjectRaisesGUI\ProjectRaisesGUI\obj\Debug\ProjectRaisesGUI.pdb
