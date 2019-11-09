@@ -1,4 +1,9 @@
-﻿using System;
+﻿//Blaine Smith
+//11-07-2019
+//Bellevue University
+//Assignment 2.2
+//This program shows the use of creating a GUI interface to take information from the user then making calculations.
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -20,9 +25,7 @@ namespace ProjectRaisesGUI
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            int results;
-            Int32.TryParse(userInput.Text, out results);
-            //output.Text = "hello";
+
         }
 
         private void Button_Click(object sender, EventArgs e)
