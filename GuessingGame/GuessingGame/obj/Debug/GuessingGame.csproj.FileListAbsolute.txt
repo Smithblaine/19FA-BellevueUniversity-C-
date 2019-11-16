@@ -1,0 +1,7 @@
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe.config
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\GuessingGame\GuessingGame\bin\Debug\GuessingGame.pdb
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\GuessingGame\GuessingGame\obj\Debug\GuessingGame.csprojAssemblyReference.cache
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\GuessingGame\GuessingGame\obj\Debug\GuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\GuessingGame\GuessingGame\obj\Debug\GuessingGame.exe
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\GuessingGame\GuessingGame\obj\Debug\GuessingGame.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\DailyTemps\DailyTemps\bin\Debug\DailyTemps.exe.config
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\DailyTemps\DailyTemps\bin\Debug\DailyTemps.exe
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\DailyTemps\DailyTemps\bin\Debug\DailyTemps.pdb
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\DailyTemps\DailyTemps\obj\Debug\DailyTemps.csprojAssemblyReference.cache
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\DailyTemps\DailyTemps\obj\Debug\DailyTemps.csproj.CoreCompileInputs.cache
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\DailyTemps\DailyTemps\obj\Debug\DailyTemps.exe
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\DailyTemps\DailyTemps\obj\Debug\DailyTemps.pdb
