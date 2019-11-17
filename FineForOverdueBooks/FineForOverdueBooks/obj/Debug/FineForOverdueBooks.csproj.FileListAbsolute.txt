@@ -1,0 +1,7 @@
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\FineForOverdueBooks\FineForOverdueBooks\bin\Debug\FineForOverdueBooks.exe.config
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\FineForOverdueBooks\FineForOverdueBooks\bin\Debug\FineForOverdueBooks.exe
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\FineForOverdueBooks\FineForOverdueBooks\bin\Debug\FineForOverdueBooks.pdb
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\FineForOverdueBooks\FineForOverdueBooks\obj\Debug\FineForOverdueBooks.csprojAssemblyReference.cache
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\FineForOverdueBooks\FineForOverdueBooks\obj\Debug\FineForOverdueBooks.csproj.CoreCompileInputs.cache
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\FineForOverdueBooks\FineForOverdueBooks\obj\Debug\FineForOverdueBooks.exe
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\FineForOverdueBooks\FineForOverdueBooks\obj\Debug\FineForOverdueBooks.pdb
