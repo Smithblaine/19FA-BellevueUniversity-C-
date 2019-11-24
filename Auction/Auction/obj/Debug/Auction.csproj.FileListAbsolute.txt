@@ -1,0 +1,7 @@
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Auction\Auction\bin\Debug\Auction.exe.config
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Auction\Auction\bin\Debug\Auction.exe
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Auction\Auction\bin\Debug\Auction.pdb
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Auction\Auction\obj\Debug\Auction.csprojAssemblyReference.cache
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Auction\Auction\obj\Debug\Auction.csproj.CoreCompileInputs.cache
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Auction\Auction\obj\Debug\Auction.exe
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Auction\Auction\obj\Debug\Auction.pdb
