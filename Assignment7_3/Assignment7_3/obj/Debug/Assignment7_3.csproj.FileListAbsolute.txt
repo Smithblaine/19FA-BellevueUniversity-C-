@@ -1,0 +1,10 @@
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Assignment7_3\Assignment7_3\bin\Debug\Assignment7_3.exe.config
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Assignment7_3\Assignment7_3\bin\Debug\Assignment7_3.exe
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Assignment7_3\Assignment7_3\bin\Debug\Assignment7_3.pdb
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Assignment7_3\Assignment7_3\obj\Debug\Assignment7_3.csprojAssemblyReference.cache
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Assignment7_3\Assignment7_3\obj\Debug\Assignment7_3.Form1.resources
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Assignment7_3\Assignment7_3\obj\Debug\Assignment7_3.Properties.Resources.resources
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Assignment7_3\Assignment7_3\obj\Debug\Assignment7_3.csproj.GenerateResource.cache
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Assignment7_3\Assignment7_3\obj\Debug\Assignment7_3.csproj.CoreCompileInputs.cache
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Assignment7_3\Assignment7_3\obj\Debug\Assignment7_3.exe
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Assignment7_3\Assignment7_3\obj\Debug\Assignment7_3.pdb

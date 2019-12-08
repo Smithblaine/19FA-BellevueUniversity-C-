@@ -1,0 +1,7 @@
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Assignment6.4\Assignment6.4\bin\Debug\Assignment6.4.exe.config
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Assignment6.4\Assignment6.4\bin\Debug\Assignment6.4.exe
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Assignment6.4\Assignment6.4\bin\Debug\Assignment6.4.pdb
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Assignment6.4\Assignment6.4\obj\Debug\Assignment6.3.csprojAssemblyReference.cache
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Assignment6.4\Assignment6.4\obj\Debug\Assignment6.3.csproj.CoreCompileInputs.cache
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Assignment6.4\Assignment6.4\obj\Debug\Assignment6.4.exe
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Assignment6.4\Assignment6.4\obj\Debug\Assignment6.4.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Shirts\Shirts\bin\Debug\Shirts.exe.config
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Shirts\Shirts\bin\Debug\Shirts.exe
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Shirts\Shirts\bin\Debug\Shirts.pdb
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Shirts\Shirts\obj\Debug\Shirts.csprojAssemblyReference.cache
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Shirts\Shirts\obj\Debug\Shirts.csproj.CoreCompileInputs.cache
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Shirts\Shirts\obj\Debug\Shirts.exe
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\Shirts\Shirts\obj\Debug\Shirts.pdb
