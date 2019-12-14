@@ -1,4 +1,9 @@
-﻿using System;
+﻿//Blaine Smith
+//12-15-2019
+//Bellevue University
+//Assignment 8.3
+//This program allows a user to hover over words that will reveal themselves to the user.
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
