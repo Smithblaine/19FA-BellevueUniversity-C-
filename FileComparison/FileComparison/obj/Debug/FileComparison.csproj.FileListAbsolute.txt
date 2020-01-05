@@ -1,0 +1,7 @@
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\FileComparison\FileComparison\bin\Debug\FileComparison.exe.config
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\FileComparison\FileComparison\bin\Debug\FileComparison.exe
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\FileComparison\FileComparison\bin\Debug\FileComparison.pdb
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\FileComparison\FileComparison\obj\Debug\FileComparison.csprojAssemblyReference.cache
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\FileComparison\FileComparison\obj\Debug\FileComparison.csproj.CoreCompileInputs.cache
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\FileComparison\FileComparison\obj\Debug\FileComparison.exe
+C:\Users\Ringo\Desktop\Program Repos\19FA-BellevueUniversity-C#\FileComparison\FileComparison\obj\Debug\FileComparison.pdb
